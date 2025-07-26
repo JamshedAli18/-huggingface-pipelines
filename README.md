@@ -8,7 +8,7 @@ This repo contains simple Jupyter Notebooks demonstrating how to use Hugging Fac
 - `text_classification.ipynb`
 - `translation.ipynb`
 - `summarization.ipynb`
-- `question_answering.ipynb`
+- `question_answering.ipynb` 
 - `text_generation.ipynb`
 
 ## ⚙️ Install Requirements
